@@ -1,6 +1,6 @@
 # Predicting Election Outcomes Using Sentiment Analysis And Twitter Data
-Ovie Umukoro, Ashok Naren Puchakayala
-*Department of Computer Science, University of Bridgeport*
+Ovie Umukoro, Ashok Naren Puchakayala <br />
+*Department of Computer Science, University of Bridgeport* <br />
 *126 Park Avenue, Bridgeport, CT, 06604.*
 
 ## Abstract
