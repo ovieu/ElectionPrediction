@@ -219,9 +219,8 @@ Positive polarity is a measure of the number of positive tweets per
 candidate. To find this value, we took the total number of positive
 tweets per candidate and divided it by the total number of all positive
 tweets.
-
-Positive Polarity Count =
-$\frac{\text{Total\ number\ of\ positive\ tweets\ per\ candidate}}{\text{Total\ number\ of\ all\ positive\ tweets}}$
+<img src="https://render.githubusercontent.com/render/math?math=Positive Polarity Count =
+$\frac{\text{Total\ number\ of\ positive\ tweets\ per\ candidate}}{\text{Total\ number\ of\ all\ positive\ tweets}}$">
 
 A.1 POSITIVE POLARITY FOR HILLARY CLINTON
 
