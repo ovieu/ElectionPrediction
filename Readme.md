@@ -3,10 +3,11 @@
 </h2>
 <h3 align="center">
 	Ovie Umukoro, Ashok Naren Puchakayala <br />
-*Department of Computer Science, University of Bridgeport* <br />
-*126 Park Avenue, Bridgeport, CT, 06604.*
+        Department of Computer Science, University of Bridgeport <br />
+        126 Park Avenue, Bridgeport, CT, 06604.
+</h3>
 
-	</h3>
+
 ### Abstract
  Elections are a quick and vivid means of identifying and
 verifying the relationship between popular opinion and eventual voter's
