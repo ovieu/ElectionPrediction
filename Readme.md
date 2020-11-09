@@ -1,9 +1,10 @@
-# Predicting Election Outcomes Using Sentiment Analysis And Twitter Data
+<p align="center"> Predicting Election Outcomes Using Sentiment Analysis And Twitter Data
 Ovie Umukoro, Ashok Naren Puchakayala <br />
 *Department of Computer Science, University of Bridgeport* <br />
 *126 Park Avenue, Bridgeport, CT, 06604.*
+</p>
 
-## Abstract
+### Abstract
  Elections are a quick and vivid means of identifying and
 verifying the relationship between popular opinion and eventual voter's
 choice. The idea is that one who speaks positively about a particular
@@ -20,7 +21,7 @@ performing some data cleaning using Python and R to eliminate
 unnecessary data, identifying the positive sentiment of each candidate
 using MapReduce and lastly gathering the result using Hive.**
 
-## I.  INTRODUCTION
+### I.  INTRODUCTION
 
 In this paper, we would focus on the use of user generated big data from
 Twitter in predicting election outcomes. Elections are a vivid, quick,
