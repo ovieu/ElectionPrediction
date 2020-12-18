@@ -195,9 +195,13 @@ analysis.
 The table snapshot Fig.1. below shows a brief sample of the result
 exported to Hive:
 
-![](media/image2.png){width="3.0in" height="3.9318799212598425in"}
+<p align="center"> 
+    <img src="img/01.png"/>
+</p>
 
-Fig.1. Snapshot of Table of data exported to Hive
+<p align="center"> 
+    Fig.1. Snapshot of Table of data exported to Hive
+</p>
 
 The results were categorized by date of capture, time zone, polarity
 count and polarity values. As previously stated, time zones were used
@@ -219,8 +223,10 @@ Positive polarity is a measure of the number of positive tweets per
 candidate. To find this value, we took the total number of positive
 tweets per candidate and divided it by the total number of all positive
 tweets.
-<img src="https://render.githubusercontent.com/render/math?math=Positive Polarity Count =
-$\frac{\text{Total\ number\ of\ positive\ tweets\ per\ candidate}}{\text{Total\ number\ of\ all\ positive\ tweets}}$">
+
+<p align="center"> 
+    <img src="img/02.png"/>
+</p>
 
 A.1 POSITIVE POLARITY FOR HILLARY CLINTON
 
@@ -230,20 +236,28 @@ and two hundred and one thousand negative tweets culminating in a
 positive polarity ratio of thirty-nine percent (39%) which is depicted
 in Fig.2. The Tweet Ratio of Hillary is
 
-$\frac{\text{Total\ number\ of\ positive\ tweets\ for\ Hillary}}{\text{Total\ number\ of\ tweets\ for\ Hillary}}$
+<p align="center"> 
+    <img src="img/03.png"/>
+</p>
 
-$\frac{79121}{201878} = 0.392$
 
-[\[CHART\]]{.chart}
+<p align="center"> 
+    <img src="img/04.png"/>
+</p>
 
-Fig.2. Pie chart depicting Trump Tweet Ratio
 
 The Positive Polarity Count of Trump is
 
-$\frac{\text{Total\ number\ of\ positive\ tweets\ for\ Trump}}{\text{Total\ number\ of\ all\ positive\ tweets}}$
+<p align="center"> 
+    <img src="img/05.png"/>
+</p>
+
+
+
+<!-- $\frac{\text{Total\ number\ of\ positive\ tweets\ for\ Trump}}{\text{Total\ number\ of\ all\ positive\ tweets}}$
 
 $\frac{197907}{277028} = 0.714$
-
+ -->
 B.1 POSITIVE POLARITY FOR DONALD TRUMP
 
 According to the data obtained from the sentiment analysis, Donald Trump
@@ -252,35 +266,36 @@ and four hundred and thirty thousand negative tweets culminating in a
 positive polarity ratio of thirty nine percent (46%). This is shown in
 Pie char Fig.3.
 
-$\frac{\text{Total\ number\ of\ positive\ tweets\ for\ Trump}}{\text{Total\ number\ of\ tweets\ for\ Trump}}$
+<p align="center"> 
+    <img src="img/06.png"/>
+</p>
 
-$\frac{197907}{430030} = 0.460$
+<p align="center"> 
+    <img src="img/07.png"/>
+</p>
 
-[\[CHART\]]{.chart}
-
-Fig.3. Pie chart depicting Trump Tweet Ratio
 
 Similarly, the Positive Polarity of Hillary is
 
-$\frac{\text{Total\ number\ of\ positive\ tweets\ for\ Hillary}}{\text{Total\ number\ of\ all\ positive\ tweets}}$
-
-$\frac{79121}{277028} = 0.285$
+<p align="center"> 
+    <img src="img/08.png"/>
+</p>
 
 These positive polarity values are plotted in pie chart shown in Fig.4.
 
-![C:\\Users\\naren\\AppData\\Local\\Microsoft\\Windows\\INetCacheContent.Word\\14.All
-positive Tweets.png](media/image1.png){width="3.1753729221347333in"
-height="2.287521872265967in"}
+<p align="center"> 
+    <img src="img/09.png"/>
+</p>
 
-Fig.4. Pie chart showing positive tweets per candidate
 
 Finally, we calculated the tweet ratios for each candidate for every day
 we collected the data and plotted it as a trend in Fig.5. to observe the
 real positive trend of tweets per person.
 
-[\[CHART\]]{.chart}
+<p align="center"> 
+    <img src="img/10.png"/>
+</p>
 
-Fig.5. Tweet Ratios Tend per date per candidate
 
 ### V.  **CONCLUSION & FUTURE WORK**
 
